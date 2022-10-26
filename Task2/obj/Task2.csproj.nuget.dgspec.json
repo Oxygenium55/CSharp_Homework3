@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Developer\\git\\repo\\CSharp\\Homework3\\Task2\\Task2.csproj": {}
+    "K:\\cSharp\\homeworks\\homework3\\CSharp_Homework3\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Developer\\git\\repo\\CSharp\\Homework3\\Task2\\Task2.csproj": {
+    "K:\\cSharp\\homeworks\\homework3\\CSharp_Homework3\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Developer\\git\\repo\\CSharp\\Homework3\\Task2\\Task2.csproj",
+        "projectUniqueName": "K:\\cSharp\\homeworks\\homework3\\CSharp_Homework3\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Developer\\git\\repo\\CSharp\\Homework3\\Task2\\Task2.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Developer\\git\\repo\\CSharp\\Homework3\\Task2\\obj\\",
+        "projectPath": "K:\\cSharp\\homeworks\\homework3\\CSharp_Homework3\\Task2\\Task2.csproj",
+        "packagesPath": "C:\\Users\\Chanel\\.nuget\\packages\\",
+        "outputPath": "K:\\cSharp\\homeworks\\homework3\\CSharp_Homework3\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Chanel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
